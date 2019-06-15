@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
-lunix
+linux
 python
 lisence plate
 opencv
